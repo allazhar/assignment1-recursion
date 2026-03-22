@@ -11,6 +11,8 @@ Loops (for, while) were not used as required.
 The tasks covered numbers, arrays, sequences, and strings.
 
 ---
+Part 1. Recursion with Numbers
+---
 
 ## Task 1 – Print Digits
 
@@ -47,6 +49,8 @@ Screenshot:
 ![Task4](task4.png)
 
 ---
+Part 2. Recursion with Sequences
+---
 
 ## Task 5 – Fibonacci
 
@@ -73,6 +77,8 @@ Explanation: Prints numbers in reverse using recursion.
 Screenshot:
 ![Task7](task7.png)
 
+---
+Part 3. Recursion with Strings
 ---
 
 ## Task 8 – Check Digits in String
