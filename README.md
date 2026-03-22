@@ -3,27 +3,34 @@
 Name: Allazhar Aldongarov
 Group: SE-2513
 
+
 ## Summary
 
 In this assignment, I solved 10 tasks using recursion only.
 Loops (for, while) were not used as required.
 The tasks covered numbers, arrays, sequences, and strings.
 
+---
+
 ## Task 1 – Print Digits
 
 Explanation: Recursively divides the number and prints each digit.
 
-Screenshot: task1.png
+Screenshot:
+![Task1](task1.png)
 
+---
 
 ## Task 2 – Average of Elements
 
 Explanation: Recursive function calculates sum, then average.
 
-Screenshot: task2.png
+Screenshot:
+![Task2](task2.png)
 
+---
 
-## Task 3 – Prime Number
+## 📌 Task 3 – Prime Number
 
 Explanation: Checks divisibility using recursion.
 
@@ -32,7 +39,7 @@ Screenshot:
 
 ---
 
-## 📌 Task 4 – Factorial
+## Task 4 – Factorial
 
 Explanation: Uses recursive multiplication.
 
@@ -41,7 +48,7 @@ Screenshot:
 
 ---
 
-## 📌 Task 5 – Fibonacci
+## Task 5 – Fibonacci
 
 Explanation: Each number is sum of previous two (recursive).
 
@@ -50,7 +57,7 @@ Screenshot:
 
 ---
 
-## 📌 Task 6 – Power Function
+## Task 6 – Power Function
 
 Explanation: Multiplies number recursively.
 
@@ -59,7 +66,7 @@ Screenshot:
 
 ---
 
-## 📌 Task 7 – Reverse Output
+## Task 7 – Reverse Output
 
 Explanation: Prints numbers in reverse using recursion.
 
@@ -68,7 +75,7 @@ Screenshot:
 
 ---
 
-## 📌 Task 8 – Check Digits in String
+## Task 8 – Check Digits in String
 
 Explanation: Checks each character recursively.
 
@@ -77,7 +84,7 @@ Screenshot:
 
 ---
 
-## 📌 Task 9 – Count Characters
+## Task 9 – Count Characters
 
 Explanation: Counts string length recursively.
 
@@ -86,7 +93,7 @@ Screenshot:
 
 ---
 
-## 📌 Task 10 – GCD
+## Task 10 – GCD
 
 Explanation: Uses Euclidean algorithm recursively.
 
